@@ -1,0 +1,2 @@
+# miniprogram_Iot
+以微信小程序和Android应用通过阿里云物联网平台控制远端设备
